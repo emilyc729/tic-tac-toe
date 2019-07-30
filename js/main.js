@@ -1,8 +1,8 @@
 /*----- constants -----*/
 const COLORS = {
     'null': ['', 'none'],
-    '1': ['X', 'purple'],
-    '-1': ['O', 'lime']
+    '1': ['X', 'rgb(2,206,205)'],
+    '-1': ['O', 'rgb(253,100,120)']
 };
 
 const winCombos = [
