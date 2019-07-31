@@ -9,16 +9,17 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    font-family: 'Montserrat Alternates', sans-serif;
 }
 
 h1 {
-    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 56px;
     color: white;
-    text-shadow: 1px 1px 2px black, 0 0 15px lightyellow, 0 0 5px pink;
+    text-shadow: 1px 1px 2px rgb(34, 34, 34), 0 0 8px rgb(2,206,205);
 }
 
 h2 {
-    font-size: 20px;
+    font-size: 30px;
 }
 
 section {
