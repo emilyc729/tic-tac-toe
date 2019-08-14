@@ -3,8 +3,8 @@ Tic-Tac-Toe is a two player game. Each player takes turns marking a spot on the 
 
 ## Game Screenshots
 ![Game Play](https://i.imgur.com/vSua6Yn.png)
-![Win](https://i.imgur.com/iNz6VBL.png)
-![Tie](https://i.imgur.com/CqKA1Pr.png)
+![Win](https://i.imgur.com/t5qQGg7.png)
+![Tie](https://i.imgur.com/chKkhRR.png)
 
 
 ## Technologies Used
@@ -24,5 +24,5 @@ Play
 ## Next Steps:
 1. Create an AI option to play with computer
 2. Design responsive layout for cross-platform development
-3. Add background music
+3. Add background music/animations
 4. Add selection to change game themes
