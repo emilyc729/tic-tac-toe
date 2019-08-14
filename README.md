@@ -2,9 +2,9 @@
 Tic-Tac-Toe is a two player game. Each player takes turns marking a spot on the 3 by 3 board.  The first person to get 3 in a row either horizontally, vertically, or diagonally wins!
 
 ## Game Screenshots
-![Game Play](https://i.imgur.com/vSua6Yn.png)
-![Win](https://i.imgur.com/t5qQGg7.png)
-![Tie](https://i.imgur.com/chKkhRR.png)
+![Game Play](https://i.imgur.com/4NYyjPK.png)
+![Win](https://i.imgur.com/tNfaVJY.png)
+![Tie](https://i.imgur.com/IAmQcSL.png)
 
 
 ## Technologies Used
